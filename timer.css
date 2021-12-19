@@ -1,0 +1,24 @@
+.timerset{
+  background-color: rgba(255,0,0,0.5);
+  width: 300px;
+  padding-top: 20px;
+  border-radius: 10px;
+}
+
+#display{
+  text-align: center;
+  width: 250px;
+  font-size: 30px;
+  justify-content: center;
+  background-color: rgba(255,0,0,0.5);
+  margin: auto;
+}
+
+
+.btn_set{
+  display: inline-block;
+  padding:10px 40px;
+  margin: auto;
+  justify-content: center;
+  
+}
